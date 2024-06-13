@@ -1,3 +1,7 @@
+# DEPRECATED # 
+This is now deprecated and will be archieved 
+If you want to move jobs, try this repo: https://github.com/dbt-labs/dbt-jobs-as-code
+
 ## What is this for?
 There are times where we need to move job definitions from:
 
